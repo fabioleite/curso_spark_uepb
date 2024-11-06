@@ -1,3 +1,0 @@
-## Requisitos
-## Configuração
-## Primeiros comandos
